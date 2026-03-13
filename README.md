@@ -455,7 +455,7 @@ AAE5303_Assignment2_workspace/
 ├── README.md                  # This optimized evaluation report
 ├── optimized_HKisland.yaml    # Core optimized config (nFeatures: 4000, minThFAST: 5)
 ├── draw_report.py             # Custom python visualization script
-├── Final_Report_Plot.png      # High-quality 4-panel trajectory figure
+├── image.png      # High-quality 4-panel trajectory figure
 ├── KeyFrameTrajectory.txt     # The optimized output trajectory (91.67% completeness)
 ├── groundtruth.txt            # Extracted RTK ground truth
 └── HKisland_GNSS03.bag        # Original ROS bag dataset (Not uploaded due to size)
